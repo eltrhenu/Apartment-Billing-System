@@ -1,6 +1,6 @@
 # Apartment-Billing-System
  
-This system fulfills the concepts of; 
+This system fulfills the concepts of; <br />
 • Defining Classes <br />
 • Scanner <br />
 • File I/O <br />
