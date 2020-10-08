@@ -10,3 +10,4 @@ This system fulfills the concepts of; <br />
 • 2-dimensional Array <br />
 • Constructor, Getters&Setters <br />
 • ArrayList<br />
+This is implemented as group of two for Programming Fundamentals Lesson
